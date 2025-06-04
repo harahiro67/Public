@@ -8,7 +8,7 @@ pygame.init()
 # 画面設定
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("スペースインベーダー")
+pygame.display.set_caption("Something like Space Invaders")
 
 # 色の定義
 BLACK = (0, 0, 0)
